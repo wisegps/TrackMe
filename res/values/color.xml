@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- 蓝色 -->
+    <color name="blue_press">#40B7DE</color>
+    <!-- 灰色 -->
+    <color name="navy_gray">#8e8e8e</color>
+    
+    <!-- line color -->
+    <color name="line_clolor">#eaeaea</color>
+    
+</resources>
